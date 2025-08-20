@@ -15,7 +15,8 @@ This project has used the provided resources (demo project) in tutorial for java
 2. Queries.sql cannot be run. It just give a better view for people to see all the query we used
 
 ## How to run the project
-1. Run the table_creation.sql to load the data into the database
+Precondition: Open the project inside UBC remote server
+1. Run the table_creation.sql to load the data into the database (run in Oracle sqlplus in the server)
 2. Type "cd Project" in the terminal to go to the project folder
 3. Type sh remote-start.sh to run the project
 4. Click the link to open the local host
